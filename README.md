@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @001king7
+- 👋 Hi, I’m @01king
 - 👀 I’m interested in ...footbal and juice wrld 
 - 🌱 I’m currently learning ...kotlin
 - 💞️ I’m looking to collaborate on ...
